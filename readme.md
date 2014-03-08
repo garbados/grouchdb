@@ -5,10 +5,10 @@
 GrouchDB is an open-source NoSQL database that
 
 * Uses HTTP for its API
-* Strongly consistent
+* Consists strongly
 * Communicates in JSON
-* Query using GrouchReduce
-* Highly available
+* Uses GrouchReduce for queries
+* Is always available... to party!
 * Scales to millions of requests even on as few as 1.5 nodes
 * Does not merely tolerate partitions, but *embraces* them
 
