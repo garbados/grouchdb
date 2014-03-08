@@ -1,0 +1,22 @@
+{
+  "name": "grouchdb",
+  "version": "0.0.0",
+  "description": "Begrudgingly stores your data >:(",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "database",
+    "grouchdb",
+    "couchdb"
+  ],
+  "author": "Max Thayer <garbados@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garbados/grouchdb"
+  },
+  "license": "ISC",
+  "devDependencies": {}
+}
