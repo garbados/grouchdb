@@ -4,7 +4,7 @@
 
 GrouchDB is an open-source NoSQL database that
 
-* Uses FTP for its API
+* Uses HTTP for its API
 * Strongly consistent
 * Communicates in JSON
 * Query using GrouchReduce
